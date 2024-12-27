@@ -1,0 +1,35 @@
+div{
+    background-color: red;
+}
+@media only screen and (max-width:320px){
+    div{
+        border-color: bisque;
+        color: black;
+    }
+}
+@media only screen and (main-width:780px) {
+
+    div{
+        background-color: pink;
+    }
+    
+}
+#one{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+
+}
+#two{
+        height: 100px;
+        margin: 20px;
+        width: 100px;
+        
+    }
+#three{
+    margin: 20px;
+        height: 100px;
+        width: 100px;
+        
+    
+}

@@ -1,0 +1,18 @@
+*{
+    text-transform: capitalize;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    
+}
+tr,th,td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+tr:nth-child(even){
+    background-color: rgb(0, 0, 255);
+}

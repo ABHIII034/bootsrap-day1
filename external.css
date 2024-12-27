@@ -1,0 +1,31 @@
+*{
+    text-transform: capitalize;
+}
+h1{
+    color: white; 
+    background-color:rgb(211, 189, 236);
+}
+.paragraph{
+    background-color: black;
+    color: red;
+}
+#color{
+    background-color: cadetblue;
+    color: aliceblue;
+}
+#color1{
+    color: burlywood;
+    background-color: black;
+}
+#color2{
+    color: cyan;
+    background-color: white;
+}
+/*
+html{
+    background-color: rgb(235, 235, 147);
+}
+    */
+ul{
+    list-style-type: square;
+}
